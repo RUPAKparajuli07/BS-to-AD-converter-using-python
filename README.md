@@ -1,5 +1,3 @@
-## BS to AD / AD to BS Converter
-
 This program provides a graphical user interface (GUI) for converting dates between the Bikram Sambat (BS) and Gregorian (AD) calendars. It utilizes the `tkinter` library for creating the GUI components and the `tkcalendar` library for the date picker functionality.
 
 ### Prerequisites
