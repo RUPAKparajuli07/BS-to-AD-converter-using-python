@@ -145,6 +145,14 @@ The program provides the following functionality:
 - Displaying the selected BS date in the corresponding BS date entry fields.
 - Displaying the selected AD date in the corresponding AD date entry fields.
 
+-   <h2 id="contributing">Contributing</h2>
+  <p>Contributions are welcome! If you find any issues or would like to suggest enhancements, please feel free to submit a pull request or open an issue.</p>
+
+  <h2 id="license">License</h2>
+  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+</body>
+</html>
+
 ### Limitations
 
 The program assumes the validity of dates within the supported range of the conversion algorithms. If an invalid date is entered, an error message will be displayed.
